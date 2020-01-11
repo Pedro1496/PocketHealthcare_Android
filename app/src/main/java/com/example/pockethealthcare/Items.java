@@ -10,6 +10,7 @@ public class Items {
         mImageResource = imageResource;
         mText1 = text1;
         mText2 = text2;
+        //test
     }
 
     public int getImageResource()
